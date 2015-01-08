@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="online_offline_notification">Oznámení o připojení/odpojení zarizení</string>
+    <string name="online_offline_notification_detail">Povolíte notifikace</string>
+    <string name="device_detail_wifi_access">禁止蹭网</string>
+    <string name="device_detail_wifi_access_description">开启后，将禁止该设备连入你的WiFi</string>
+    <string name="device_detail_full_disk">Úplný přístup k hdd</string>
+    <string name="device_detail_full_disk_detail">Povolíte úplný přístup k hdd, včetne soukromeho obsahu</string>
+    <string name="device_detail_network_description">Povolíte zařizení přistup k internetu</string>
+    <string name="qos_device_setting">QOS</string>
+    <string name="qos_device_setting_detail">Nastavení priority stahování</string>
     <string name="app_name">Mi Wi-Fi</string>
     <string name="setting">Pokročilé nastavení</string>
     <string name="exit">Konec</string>
@@ -115,8 +124,8 @@
     <string name="status_error_device_cpu_overload_title">%d%%</string>
     <string name="status_error_device_cpu_overload_body">The slow response is due to a CPU overload. Please wait…</string>
     <string name="exit_press_back_again">Please tap back key again to exit Mi Wi-Fi.</string>
-    <string name="status_wan_speed">Externí rychlost síťe</string>
-    <string name="status_lan_speed">Interní rychlost sítě</string>
+    <string name="status_wan_speed">Rychlost externí síťe</string>
+    <string name="status_lan_speed">Rychlost interní sítě</string>
     <string name="status_lan_max_speed">Max. rychlost</string>
     <string name="gb">GB</string>
     <string name="mb">MB</string>
@@ -130,7 +139,7 @@
     <string name="login_change_account">" "<u>Přepnout účet</u>" "</string>
     <string name="login_account_login">Přihlásit</string>
     <string name="login_new_user_register">Nová registrace</string>
-    <string name="login_forget_password">zapomenuté heslo</string>
+    <string name="login_forget_password">Zapomenuté heslo</string>
     <string name="login_passport_login_waiting">Přihlašuji…</string>
     <string name="login_passport_input_fail">Uživatelské jméno a heslo se neshodují.</string>
     <string name="login_passport_login_fail">Přihlášení k účtu se nezdařilo.</string>
@@ -716,15 +725,15 @@ Are you sure to turn it off?"</string>
     <string name="setting_format_formatting">Formatting the hard drive, please wait.</string>
     <string name="setting_format_succ">Successfully formatted.</string>
     <string name="setting_format_fail">Failed to format.</string>
-    <string name="device_nickname">Device name</string>
-    <string name="mac_address">MAC Address</string>
-    <string name="connect_type">Connection type</string>
-    <string name="connect_time">Connection time</string>
-    <string name="download_info">Total download usage</string>
-    <string name="download_speed">Current download speed</string>
+    <string name="device_nickname">Jméno zařizení</string>
+    <string name="mac_address">MAC Adresa</string>
+    <string name="connect_type">Typ připojení</string>
+    <string name="connect_time">Čas připojení</string>
+    <string name="download_info">Celkem staženo</string>
+    <string name="download_speed">Aktuální rychlost stahování</string>
     <string name="no_backname">No name.</string>
-    <string name="device_detail_option_rename">Rename</string>
-    <string name="device_detail_network">Internet access</string>
+    <string name="device_detail_option_rename">Přejmenovat</string>
+    <string name="device_detail_network">Přístup k internetu</string>
     <string name="device_detail_storage">Shared space access</string>
     <string name="device_detail_pri_storage">Private space access</string>
     <string name="device_detail_mac_address">MAC address: %s</string>
