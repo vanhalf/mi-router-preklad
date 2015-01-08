@@ -124,29 +124,27 @@
     <string name="g_s">G/S</string>
     <string name="m_s">M/S</string>
     <string name="k_s">K/S</string>
-    <string name="menu_exit">Exit</string>
-    <string name="menu_check_new_version">Check for updates</string>
-    <string name="login_system_login">Login</string>
-    <string name="login_change_account">" "<u>Switch accounts</u>" "</string>
-    <string name="login_account_login">Login</string>
-    <string name="login_new_user_register">New Register</string>
-    <string name="login_forget_password">Forgot Password</string>
-    <string name="login_passport_login_waiting">Logging in…</string>
-    <string name="login_passport_input_fail">Incorrect Mi account and password combanition.</string>
-    <string name="login_passport_login_fail">Failed to login to Mi account.</string>
-    <string name="login_admin_guide_description1">Login failed</string>
-    <string name="login_admin_guide_description2">Possible problem with the external network connection</string>
-    <string name="login_admin_guide_prompt">Administration login</string>
-    <string name="login_admin_guide_backend_title">Mi Wi-Fi administration</string>
-    <string name="login_guide_description_1">"Hello %s
- To Connect Mi Wi-Fi"</string>
-    <string name="login_guide_description_2">"Please make sure your Mi Wi-Fi
-indicator light is blue."</string>
-    <string name="login_guide_description_3">"Please make sure your phone has connected to the 
-Mi Wi-Fi network."</string>
-    <string name="login_bind_start">One moment…</string>
-    <string name="login_admin_password_tip">Enter admin password</string>
-    <string name="login_bind_confirm">Confirm</string>
+    <string name="menu_exit">Ukončit</string>
+    <string name="menu_check_new_version">Zkontrolovat aktualizace</string>
+    <string name="login_system_login">Přihlásit</string>
+    <string name="login_change_account">" "<u>Přepnout účet</u>" "</string>
+    <string name="login_account_login">Přihlásit</string>
+    <string name="login_new_user_register">Nová registrace</string>
+    <string name="login_forget_password">zapomenuté heslo</string>
+    <string name="login_passport_login_waiting">Přihlašuji…</string>
+    <string name="login_passport_input_fail">Uživatelské jméno a heslo se neshodují.</string>
+    <string name="login_passport_login_fail">Přihlášení k účtu se nezdařilo.</string>
+    <string name="login_admin_guide_description1">Přihlášení neúspěšné</string>
+    <string name="login_admin_guide_description2">Problém s přihlášením do sítě</string>
+    <string name="login_admin_guide_prompt">Přihlášení do administrace</string>
+    <string name="login_admin_guide_backend_title">Mi Wi-Fi administrace</string>
+    <string name="login_guide_description_1">"Ahoj %s
+ Připojuji k Mi Wi-Fi"</string>
+    <string name="login_guide_description_2">"Prosím zkontrolujte, zda svítí na routeru modrá dioda."</string>
+    <string name="login_guide_description_3">"Zkontrolujte prosím, jestli je telefon připojen k wifi síti routeru."</string>
+    <string name="login_bind_start">Chvilku strpení…</string>
+    <string name="login_admin_password_tip">Zadejte heslo administrátora</string>
+    <string name="login_bind_confirm">Potvrdit</string>
     <string name="login_miwifi_bind_waiting">Connecting, please wait…</string>
     <string name="login_not_connect_miwifi">Not connected to Mi Wi-Fi</string>
     <string name="login_miwifi_not_init">Mi Wi-Fi has not yet initialized.</string>
