@@ -124,7 +124,7 @@
     <string name="g_s">G/S</string>
     <string name="m_s">M/S</string>
     <string name="k_s">K/S</string>
-    <string name="menu_exit">Exit</string>
+    <string name="menu_exit">Ukončit</string>
     <string name="menu_check_new_version">Check for updates</string>
     <string name="login_system_login">Login</string>
     <string name="login_change_account">" "<u>Switch accounts</u>" "</string>
