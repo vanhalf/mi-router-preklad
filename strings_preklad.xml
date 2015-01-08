@@ -1217,9 +1217,4 @@ Please make sure it's connected before you login again."</string>
     <string name="camera_audio_record_not_author">未授权录制语音，是否前往授权？</string>
     <string name="camera_vidoe_save_path">存储路径:</string>
     <string name="camera_vidoe_get_router_save_path_failed">获取路由器存储路径失败</string>
-    <string name="picker_hour">hod</string>
-    <string name="picker_minite">min</string>
-    <string name="picker_year">r</string>
-    <string name="picker_month">m</string>
-    <string name="picker_day">d</string>
 </resources>
