@@ -838,6 +838,7 @@
     <string name="setting_storage">存储设置</string>
     <string name="setting_kuaipan">快盘设置</string>
     <string name="setting_nfc">NFC网络设置</string>
+    <string name="setting_language">语言设置</string>
     <string name="wan_setting">外网设置</string>
     <string name="wan_setting_type_check_loading">正在检测外网类型，请稍等…</string>
     <string name="wan_setting_type_check_failed">检测外网类型失败</string>
@@ -1212,6 +1213,37 @@
 "</string>
     <string name="network_disconnect">网络断了，似乎连不上小米路由器</string>
     <string name="network_connect_errort">出错了，没能连上你的小米路由器</string>
+    <string name="user_experience_improve_license">"小米路由器 手机APP用户体验改进计划
+ 
+ 小米通讯技术有限公司（以下简称“小米”或“我们”）诚挚的邀请您加入“小米路由器手机APP用户体验改进计划”。为了更好的为您提供新一代智能路由器所带来的美好智能生活，我们会根据需要对您在使用手机APP过程中各项功能的使用情况进行统计，进而通过这些统计数据更好的完善小米路由器手机APP产品，给您以及其他用户带来更好的体验。
+ 
+ 请放心，我们像您一样厌恶个人隐私的泄露，所有统计数据仅包括您在使用小米路由器APP过程中对各项功能的使用频率、使用方式等，这些数据以匿名的方式统计，仅用于我们更好的改进产品为用户服务，绝不涉及用户在手机上保存的短信、通话记录、联系人等各种个人隐私数据。
+ 
+ 1. 本计划的加入与退出
+ 您可以根据自己的意愿选择是否加入本计划，加入该计划之后您可以随时通过APP设置页的“用户体验改进计划”一项找到退出入口，如果需要您随时可以选择退出，当然您也可以随时选择重新加入，继续帮助我们改进产品。
+ 
+ 2. 本计划的范围
+ 您加入计划之后所提供的匿名统计数据对于我们更好的改善小米路由器手机APP以及路由器的兼容性、稳定性、易用性，具体包括：
+ （1）帮助您更及时的更新到小米路由器MiWiFi ROM操作系统的最新版本，更及时的修复各种可能出现的问题，更好的提升路由器系统稳定性；
+ （2）更好的适配您的网络服务供应商（ISP）所提供的各种不同网络接入服务（ADSL、光纤等）;
+ （3）帮助您更好的了解您的网络、设备连接数量、连接时长、硬盘使用情况，确保您的小米路由器能够保证对所有设备的兼容以及稳定连接；
+ （4）帮助您更好的使用小米路由器周边的其他智能家居设备，改善这些设备与小米路由器联动的相关功能；
+ （5）更好的为小米路由器插件系统（游戏加速、网页加速、广告拦截等）的开发者提供匿名的统计信息，帮助小米路由器开放平台的开发者们改进插件，让您获得更好的体验。
+ 
+ 3. 本计划的更新
+ 根据小米路由器系列产品的不断改进与更新，我们有可能会对本计划进行修改，届时将会通过小米路由器手机APP通知您。如果您没有改变之前的用户体验改进计划状态，即表示您接受我们的修改并且继续加入本计划。
+ 
+ 小米通讯技术有限公司
+ 2014年10月
+"</string>
+    <string name="user_experience_improve_plan">用户体验改进计划</string>
+    <string name="user_experience_improve_plan_details_title">查看详情</string>
+    <string name="user_experience_improve_short_desc">加入用户体验计划可以帮助小米更好的改进产品,完善路由器的体验。[查看详情]</string>
+    <string name="user_experience_improve_join">加入</string>
+    <string name="user_experience_improve_quit">退出</string>
+    <string name="user_experience_improve_agree">同意，继续</string>
+    <string name="user_experience_improve_not_agree">暂不加入</string>
+    <string name="user_experience_improve_joined_hint">已加入用户体验改进计划</string>
     <string name="tunnel_test">Tunnel Test</string>
     <string name="tunnel_test_disconnect">Disconnect</string>
     <string name="tunnel_test_download_1">Download 1</string>
@@ -1918,9 +1950,9 @@
     <string name="media_type_videos">视频</string>
     <string name="media_type_others">其他</string>
     <string name="media_select_items">选择项目</string>
-    <string name="media_select_x_items">已选择%d个项目</string>
-    <string name="pictures_group_name_x_num_x" formatted="false">%s | %d张</string>
-    <string name="videos_group_name_x_num_x" formatted="false">%s | %d个</string>
+    <string name="media_select_x_items">已选择%1$d个项目</string>
+    <string name="pictures_group_name_x_num_x">%1$s | %2$d张</string>
+    <string name="videos_group_name_x_num_x">%1$s | %2$d个</string>
     <string name="media_upload_none_selected">您没有选择要上传的文件!</string>
     <string name="launcher_login">登陆中…</string>
     <string name="launcher_scene_loading">场景执行中</string>
@@ -2021,11 +2053,11 @@
     <string name="save_device_name">正在保存设备名称</string>
     <string name="load_blocked_devices_list">正在加载设备黑名单</string>
     <string name="added_to_blocked_devices_list">已拉入黑名单</string>
-    <string name="whether_block_device_x">确认拉黑此设备(%s)?</string>
+    <string name="whether_block_device_x">确认拉黑此设备(%1$s)?</string>
     <string name="cannot_block_lan_device">该设备为有线设备，应该不会蹭到网吧…</string>
     <string name="whether_block_device">确认拉黑此设备?</string>
     <string name="whether_block_device_message">该设备以后每次连接都会被拒绝，你可以在拉黑列表中恢复信任。</string>
-    <string name="whether_unblock_device_x">确认将此设备(%s)解除拉黑?</string>
+    <string name="whether_unblock_device_x">确认将此设备(%1$s)解除拉黑?</string>
     <string name="whether_unblock_device">确认将此设备解除拉黑?</string>
     <string name="confirm_yes_i_know">知道了</string>
     <string name="title_change_device_name">名字好像很难辨识，建议重命名</string>
@@ -2036,20 +2068,20 @@
     <string name="plz_enable_hitch_hiker_mechanism">请打开防蹭网机制开关</string>
     <string name="ask_enable_hitch_hiker_mechanism">打开禁止连接前，需要在高级设置中开启防蹭网功能</string>
     <string name="block_device_failed_for_hitch_hiker_not_enabled">请在高级设置中打开防蹭网开关</string>
-    <string name="block_device_x_times">已成功拦截联网%d次</string>
+    <string name="block_device_x_times">已成功拦截联网%1$d次</string>
     <string name="block_device_caption">防蹭网提示</string>
     <string name="block_device_description">该设备多次尝试连接，已被拦截</string>
     <string name="block_device_mac">Mac地址</string>
     <string name="block_device_tried_times_title">尝试连接次数</string>
-    <string name="block_device_tried_times_x">%d次</string>
+    <string name="block_device_tried_times_x">%1$d次</string>
     <string name="block_device_do">加入黑名单</string>
     <string name="block_device_view_black_list">已拉黑，查看黑名单</string>
     <string name="block_device_succeeded">已拉入黑名单</string>
     <string name="unblock_device_succeeded">解除拉黑成功</string>
     <string name="block_device_message">该设备以后每次连接都会被拒绝，你可以在拉黑列表中恢复信任。</string>
     <string name="device_name_changed">设备改名成功</string>
-    <string name="last_backup_time_x">上次备份时间：%s</string>
-    <string name="backing_up_x">正在备份：%s</string>
+    <string name="last_backup_time_x">上次备份时间：%1$s</string>
+    <string name="backing_up_x">正在备份：%1$s</string>
     <string name="auto_backup_this_device">自动备份本机</string>
     <string name="auto_backup_when_router_wifi_connected">连上路由器WiFi后自动备份</string>
     <string name="backup_range">备份范围</string>
@@ -2066,14 +2098,15 @@
     <string name="phone_album">手机相册</string>
     <string name="empty_backup_range">无</string>
     <string name="backup_not_ready_for_router_not_connected">只有连接小米路由器才能备份噢～</string>
+    <string name="backup_operation_failed_for_router_not_connected">只有连接小米路由器才能操作噢～</string>
     <string name="backup_switcher_is_off">只有打开备份开关才能备份噢～</string>
     <string name="backup_fail_for_login_suc_but_not_connected">没有连接小米路由器, 只有连接小米路由器才能备份噢～</string>
     <string name="backup_complete">备份完成！</string>
-    <string name="backup_location_name">备份位置：%s</string>
+    <string name="backup_location_name">备份位置：%1$s</string>
     <string name="empty_backup_directories">备份范围为空</string>
     <string name="no_new_files_to_backup">没有新增的文件需要备份</string>
     <string name="no_backup_api">使用的路由器版本不支持备份</string>
-    <string name="backup_error_x">备份失败，请稍后重试！错误码 %d</string>
+    <string name="backup_error_x">备份失败，请稍后重试！错误码 %1$d</string>
     <string name="backup_error_no_router_space">路由器没有剩余存储空间了</string>
     <string name="backup_fail_on_xunlei_task_running">备份停止。请暂停所有下载任务后重试</string>
     <string name="backup_settings">自动备份设置</string>
@@ -2167,4 +2200,10 @@
     <string name="router_not_connected">连接小米路由器</string>
     <string name="offline_camera_not_supported">离线相机不支持此操作</string>
     <string name="change_router_account_info">当前小米路由器登录账户和智能家庭账户不一致，是否重新登录?</string>
+    <string name="feature_not_support">抱歉，你目前所在地区暂不支持此功能</string>
+    <string name="wifi_siginal_strength_type">信号强度:</string>
+    <string name="wifi_siginal_strength_max">穿墙模式</string>
+    <string name="wifi_siginal_strength_mid">标准模式</string>
+    <string name="wifi_siginal_strength_min">省电模式</string>
+    <string name="error_plugin_uninstall_preinstall_failed">该插件为重要系统插件，卸载将导致部分系统问题，无法卸载</string>
 </resources>
